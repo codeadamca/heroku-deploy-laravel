@@ -1,11 +1,11 @@
 # Deploying Laravel to Heroku
 
-> **Warning**  
+> [!Warning]  
 > This repo is a work in progress!
 
 A basic example of deploying a [Laravel](https://laravel.com/) application to [Heroku](https://www.heroku.com/). 
 
-> **Note**  
+> [!Note]  
 > Heroku no longer has a free plan. This process will still work but will not be free. The live links below have been deactivated to save cost.
 
 ***
