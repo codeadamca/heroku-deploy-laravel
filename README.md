@@ -16,6 +16,7 @@ A basic example of deploying a [Laravel](https://laravel.com/) application to [H
 * [Laravel](https://laravel.com/)
 * [Heroku](https://www.heroku.com/)
 
+<br>
 <a href="https://codeadam.ca">
-<img src="https://codeadam.ca/images/code-block.png" width="100">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
 </a>
